@@ -17,7 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A7CCA82F290E660E0023B83B /* LifeAppiOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LifeAppiOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A7CCA82F290E660E0023B83B /* LifeAppSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LifeAppSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A7CCA832290E660E0023B83B /* LifeAppiOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LifeAppiOSApp.swift; sourceTree = "<group>"; };
 		A7CCA834290E660E0023B83B /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		A7CCA837290E660E0023B83B /* LifeAppiOS.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LifeAppiOS.xcdatamodel; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		A7CCA830290E660E0023B83B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A7CCA82F290E660E0023B83B /* LifeAppiOS.app */,
+				A7CCA82F290E660E0023B83B /* LifeAppSwift.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -89,9 +89,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A7CCA82E290E660E0023B83B /* LifeAppiOS */ = {
+		A7CCA82E290E660E0023B83B /* LifeAppSwift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A7CCA843290E660F0023B83B /* Build configuration list for PBXNativeTarget "LifeAppiOS" */;
+			buildConfigurationList = A7CCA843290E660F0023B83B /* Build configuration list for PBXNativeTarget "LifeAppSwift" */;
 			buildPhases = (
 				A7CCA82B290E660E0023B83B /* Sources */,
 				A7CCA82C290E660E0023B83B /* Frameworks */,
@@ -101,9 +101,9 @@
 			);
 			dependencies = (
 			);
-			name = LifeAppiOS;
+			name = LifeAppSwift;
 			productName = LifeAppiOS;
-			productReference = A7CCA82F290E660E0023B83B /* LifeAppiOS.app */;
+			productReference = A7CCA82F290E660E0023B83B /* LifeAppSwift.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -121,7 +121,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A7CCA82A290E660E0023B83B /* Build configuration list for PBXProject "LifeAppiOS" */;
+			buildConfigurationList = A7CCA82A290E660E0023B83B /* Build configuration list for PBXProject "LifeAppSwift" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -134,7 +134,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A7CCA82E290E660E0023B83B /* LifeAppiOS */,
+				A7CCA82E290E660E0023B83B /* LifeAppSwift */,
 			);
 		};
 /* End PBXProject section */
@@ -355,7 +355,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A7CCA82A290E660E0023B83B /* Build configuration list for PBXProject "LifeAppiOS" */ = {
+		A7CCA82A290E660E0023B83B /* Build configuration list for PBXProject "LifeAppSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7CCA841290E660F0023B83B /* Debug */,
@@ -364,7 +364,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A7CCA843290E660F0023B83B /* Build configuration list for PBXNativeTarget "LifeAppiOS" */ = {
+		A7CCA843290E660F0023B83B /* Build configuration list for PBXNativeTarget "LifeAppSwift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A7CCA844290E660F0023B83B /* Debug */,
